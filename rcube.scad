@@ -12,11 +12,11 @@ $fn = 20;
 //box outer length,
 //box outer width,
 //box outer height,
-//box wall thickness,
+//fillet radius (must be <= 1/2 the minimum box dimension,
 
 boxLength = 25;
 boxWidth = 25;
-boxHeight = 25;
+boxHeight = 22;
 filletRadius=6;
 
 
