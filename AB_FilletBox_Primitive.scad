@@ -1,7 +1,9 @@
+
+//A simple Box with Rounded Edges
 $fn = 20;
 
 
-//Simple Box with Rounded Edges
+
 
 
 
@@ -13,9 +15,11 @@ $fn = 20;
 //box wall thickness,
 
 boxOuterL = 27;
-boxOuterW = 23;
-boxOuterH = 20;
-wallThickness=4;
+boxOuterW = 19;
+boxOuterH = 15;
+wallThickness=1;
+
+
 
 
 
