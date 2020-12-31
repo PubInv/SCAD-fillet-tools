@@ -3,15 +3,32 @@ $fn = 20;
 
 //Simple Box with Rounded Edges
 
-// DECLARE BOX PARAMETERS:
+
+
+
+// INPUT PARAMETERS:
+//box outer length,
+//box outer width,
+//box outer height,
+//box wall thickness,
+
 boxOuterL = 27;
 boxOuterW = 23;
 boxOuterH = 20;
 wallThickness=4;
+
+
+
+
+
+
+
+
+
+
+
 //'natural fillet'; fillet radius = wall Thickness
 filletRadius = wallThickness;
-
-
 boxInnerL = boxOuterL-wallThickness*2;
 boxInnerW = boxOuterW-wallThickness*2;
 boxInnerH = boxOuterH-wallThickness*2;
