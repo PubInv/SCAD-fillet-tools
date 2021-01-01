@@ -39,8 +39,8 @@ module rcube(size,fR) {
      }
 }
 
-boxLength = 25;
-boxWidth = 35;
-boxHeight = 15;
-fR  = 4;
-rcube([boxLength,boxWidth,boxHeight],fR);
+//boxLength = 25;
+//boxWidth = 35;
+//boxHeight = 15;
+//fR  = 4;
+//rcube([boxLength,boxWidth,boxHeight],fR);
